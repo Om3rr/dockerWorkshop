@@ -1,4 +1,4 @@
-# Docker Workship :smirk:
+# Docker Workshop :smirk:
 
 #### prerequests:
  - Register and sign in to [Dockerhub](hub.docker.com)
