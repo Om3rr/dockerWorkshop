@@ -14,4 +14,4 @@
  - simple docker container pull
  - simple flask application which present a dummy cat every call!
  - basic rails application
- - voting app
+ - [Voting app](https://github.com/dockersamples/example-voting-app)
