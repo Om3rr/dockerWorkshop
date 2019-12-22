@@ -12,6 +12,8 @@
 
 #### Projects we will cover:
  - simple docker container pull
- - simple flask application which present a dummy cat every call!
+ - Wordpress website
+ - Rails app
+ - Dockerize our own python flask application
  - basic rails application
  - [Voting app](https://github.com/dockersamples/example-voting-app)
