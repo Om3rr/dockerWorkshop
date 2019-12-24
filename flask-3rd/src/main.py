@@ -8,4 +8,4 @@ def hello():
     cat = requests.get("https://api.thecatapi.com/v1/images/search?size=full").json()[0]
     return render_template('index.html', url=cat.get("url"))
 if __name__ == '__main__':
-    app.run()
+    app.run(host="0.0.0.0")
